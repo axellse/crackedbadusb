@@ -11,7 +11,7 @@
 Ive done some research and sadly i will not be able to have the stick act as a display due to the usb graphics controllers not being available to hobbyists. I will still be able to have it act as a mass media device and some other stuff though. I have decided on the rp2040 for its native usb support.
 ![Skärmbild 2025-10-20 180054.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MywicHVyIjoiYmxvYl9pZCJ9fQ==--5fb42a3279af03be0adef28560d1ed3d11d7bb60/Sk%C3%A4rmbild%202025-10-20%20180054.png)  
 
-## 10/20/2025 10 PM - began working on shematic  
+## 10/20/2025 10 PM - began working on schematic  
 
 Im very new to pcb/circuit design, but ive started working on the schematic for the board. Right now i only have the usb c plug, a voltage regulator for the microcontroller, and a diode array IC for ESD protection.
 
