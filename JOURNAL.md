@@ -17,3 +17,20 @@ Im very new to pcb/circuit design, but ive started working on the schematic for 
 
 ![blueprint-1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--90ef68ccb749a874d2b1f8e480aaae64191da25b/blueprint-1.png)  
 
+## 10/21/2025 - Finished basic schematic for RP2040  
+
+![blueprint-2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE4MywicHVyIjoiYmxvYl9pZCJ9fQ==--eae81e628c7b982c59453b910466f11718cffbc2/blueprint-2.png)
+
+Ive now finished the circuit for getting the RP2040 up and running. I have the following components laid out right now:
+- The rp2040 (ofc)
+- A crystal oscillator for the clock
+- A 16mb flash chip
+- The usb c connector
+- A diode array ic for esd protection on the usb c connector
+- A 3.3v voltage regulator as to not magic smoke the rp2040
+- Reset and boot buttons
+- Debug connector
+- and a bunch of passives
+
+Next up is actually making it do something!  
+
