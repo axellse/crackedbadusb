@@ -32,5 +32,7 @@ Ive now finished the circuit for getting the RP2040 up and running. I have the f
 - Debug connector
 - and a bunch of passives
 
-Next up is actually making it do something!  
+Next up is actually making it do something!
+
+P.S, if you're making something with an RP2040, check out [Hardware design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf) and the datasheets, they are both great resources!  
 
