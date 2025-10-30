@@ -36,7 +36,7 @@ Next up is actually making it do something!
 
 P.S, if you're making something with an RP2040, check out [Hardware design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf) and the datasheets, they are both great resources!  
 
-## 10/31/2025 - Picking the right radio chip  
+## 10/31/2025 12:06 AM - Picking the right radio chip  
 
 One of the major features of this badusb that sets it apart is the integrated lora radio. I initially wanted to use the SX1262 chip directly as its pretty new and has a good power efficiency. It wouldn't be *that* hard to use the chip directly, but RF is pretty much black magic to me and making sure i don't get a bunch of interference to the rp2040 that's right next to it is not something i would be able to pull of with my current skills.
 
@@ -45,4 +45,11 @@ The other route is to use an off-the-shelf module that does all the hard RF desi
 ![original](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--0d532c4cc72047ca4f3a349ac2f940e118c9fde6/original.JPG)
 
 While SX1262 modules exists, i have pretty tight dimensions constraints and i couldn't find any that would fit, so i decided to go with an SX1278 module instead which are more common. Specifically the Ai-Thinker RA-02 (not sure how a lora module has even remotely anything to do with ai), which i have used in projects before  
+
+## 10/31/2025 12:36 AM - Schematic done (almost)  
+
+Added the dip switch, radio chip, the pull out sensor and a neopixel. Theres not much else but i remember needing another button i just forgot what i would need it for.
+
+![bild](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0ab3f0737aa9e44c4181abd9db7a7929c8e12257/bild.png)
+  
 
