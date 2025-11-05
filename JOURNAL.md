@@ -53,3 +53,15 @@ Added the dip switch, radio chip, the pull out sensor and a neopixel. Theres not
 ![bild](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0ab3f0737aa9e44c4181abd9db7a7929c8e12257/bild.png)
   
 
+## 11/5/2025 - Schematic finnally done  
+
+Now the schematic is finally done and its time to start working on the PCB. I'm still not happy about using a module for the LoRa radio, but i will have to change that in another revision. 
+
+I added:
+- SD card reader
+- more leds (yay)
+- Test points
+- looked through everything (found that my usb data lines were flipped, very glad i catched that)
+
+![bild](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--b584fc12560087f824fee39a35f4ca6532034845/bild.png)  
+
