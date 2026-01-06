@@ -146,9 +146,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.39627441"
-     inkscape:cx="832.75626"
-     inkscape:cy="680.08428"
+     inkscape:zoom="0.56041664"
+     inkscape:cx="1098.29"
+     inkscape:cy="422.00745"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -251,7 +251,7 @@
          x="254.72661"
          y="523.72852"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.5;font-family:'Lexend Deca';-inkscape-font-specification:'Lexend Deca, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:7.453;stroke-dasharray:none"
-         id="tspan43">in on the growing meshtastic. </tspan><tspan
+         id="tspan43">in on the growing meshtastic network. </tspan><tspan
          sodipodi:role="line"
          x="254.72661"
          y="546.2619"
@@ -264,7 +264,7 @@
          id="tspan4">other features include MOSFET-controlled solder pads</tspan><tspan
          sodipodi:role="line"
          x="254.72661"
-         y="591.32861"
+         y="591.32855"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.5;font-family:'Lexend Deca';-inkscape-font-specification:'Lexend Deca, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:7.453;stroke-dasharray:none"
          id="tspan46">for attatching and powering external hardware up to</tspan><tspan
          sodipodi:role="line"
@@ -274,7 +274,7 @@
          id="tspan9">5V 1A from your scripts, and a DIP-switch for picking</tspan><tspan
          sodipodi:role="line"
          x="254.72661"
-         y="636.39532"
+         y="636.39526"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.5;font-family:'Lexend Deca';-inkscape-font-specification:'Lexend Deca, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:7.453;stroke-dasharray:none"
          id="tspan10">scripts.</tspan><tspan
          sodipodi:role="line"
@@ -476,7 +476,7 @@
          x="1549.098"
          y="449.22095"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.5;font-family:'Lexend Deca';-inkscape-font-specification:'Lexend Deca, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:7.453;stroke-dasharray:none"
-         id="tspan25">Scripting is done through Lua, an easy to use interpreted</tspan><tspan
+         id="tspan25">scripting is done through lua, an easy to use interpreted</tspan><tspan
          sodipodi:role="line"
          x="1549.098"
          y="471.7543"
@@ -489,7 +489,7 @@
          id="tspan31">have full control over hardware. As for USB, there is</tspan><tspan
          sodipodi:role="line"
          x="1549.098"
-         y="516.82104"
+         y="516.82098"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.5;font-family:'Lexend Deca';-inkscape-font-specification:'Lexend Deca, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:7.453;stroke-dasharray:none"
          id="tspan33-8">support for USB HID (keyboard, mouse, gamepad), USB</tspan><tspan
          sodipodi:role="line"
